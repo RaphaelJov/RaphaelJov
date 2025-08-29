@@ -6,7 +6,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e ef
 
 ## 🛠 Projetos Destaque
 - **[pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS 🔍.
-
+!
 
 ## 🔧 Minhas Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 
 ## 📊 Minhas Stats no GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RaphaelJov=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
