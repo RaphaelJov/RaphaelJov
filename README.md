@@ -17,6 +17,7 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 
 ## 📊 Minhas Stats no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelJov)
+https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
 ## 🛠 Projetos Destaque
