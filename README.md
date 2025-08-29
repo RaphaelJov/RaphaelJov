@@ -16,7 +16,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e ef
 Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, Documentação de Código.
 
 ## 📊 Minhas Stats no GitHub
-![GitHub Stats](![Top Langs](https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
+![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
 ## 🛠 Projetos Destaque
