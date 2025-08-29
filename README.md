@@ -22,12 +22,4 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 ## 🛠 Projetos Destaque
 - **[pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS. 🔍
 
-## 📫 Contato
-- **LinkedIn:** [raphael-jovino-desenvolvedor-programador-analista](https://www.linkedin.com/in/raphael-jovino-desenvolvedor-programador-analista/)
-- **Email:** (adicione seu email aqui, ex: raphael.jovino@email.com)
-- **Localização:** Rio de Janeiro, Brasil 🌎
-
 Sinta-se à vontade para conectar e colaborar! 🚀
-
----
-Feito com ❤️ usando GitHub Markdown. Tema inspirado em devs modernos.
