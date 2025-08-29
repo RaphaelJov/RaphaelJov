@@ -4,6 +4,9 @@
 
 Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e eficientes. Estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista: 2026) na Universidade Veiga de Almeida, com foco em back-end, APIs e tecnologias web. Como PCD (Autista), trago atenção aos detalhes, lógica afiada e código limpo. Buscando oportunidades como Estagiário ou Desenvolvedor Júnior! 💻
 
+## 🛠 Projetos Destaque
+- **[pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS. 🔍
+
 ## 🔧 Minhas Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -17,12 +20,8 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 
 ## 📊 Minhas Stats no GitHub
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
-## 🛠 Projetos Destaque
-- **[pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS. 🔍
 
 Sinta-se à vontade para conectar e colaborar! 🚀
