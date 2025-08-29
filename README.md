@@ -20,7 +20,7 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
 ## 🛠 Projetos Destaque
-- **[pesquisa_em_tempo_real]([https://github.com/RaphaelJov/pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/))**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS. 🔍
+- **[pesquisa_em_tempo_real]([https://github.com/RaphaelJov/pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS. 🔍
 
 ## 📫 Contato
 - **LinkedIn:** [raphael-jovino-desenvolvedor-programador-analista](https://www.linkedin.com/in/raphael-jovino-desenvolvedor-programador-analista/)
