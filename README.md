@@ -8,6 +8,8 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e ef
 - **[pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS 🔍.  
 
   
+
+
 ## 🔧 Minhas Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -20,10 +22,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e ef
 Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, Documentação de Código.
 
 ## 📊 Minhas Stats no GitHub
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
-
 
 Sinta-se à vontade para conectar e colaborar! 🚀
