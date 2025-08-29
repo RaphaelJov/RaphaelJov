@@ -16,6 +16,8 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e ef
 Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, Documentação de Código.
 
 ## 📊 Minhas Stats no GitHub
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
