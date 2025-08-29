@@ -21,7 +21,6 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 
 ## 🛠 Projetos Destaque
 - **[pesquisa_em_tempo_real](https://github.com/RaphaelJov/pesquisa_em_tempo_real)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS. 🔍
-- (Adicione mais projetos aqui à medida que criar – ex: um portfolio em React!)
 
 ## 📫 Contato
 - **LinkedIn:** [raphael-jovino-desenvolvedor-programador-analista](https://www.linkedin.com/in/raphael-jovino-desenvolvedor-programador-analista/)
