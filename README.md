@@ -21,6 +21,7 @@ Outras skills: Desenvolvimento Web, Componentização, Gerenciamento de Estado, 
 
 ## 📊 Minhas Stats no GitHub
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RaphaelJov=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelJov&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelJov&layout=compact&theme=dracula&hide_border=true)
 
