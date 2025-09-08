@@ -5,7 +5,7 @@
 Sou um desenvolvedor full-stack apaixonado por criar soluções escaláveis e eficientes. Estudante de Análise e Desenvolvimento de Sistemas (conclusão prevista: 2026) na Universidade Veiga de Almeida, com foco em back-end, APIs e tecnologias web. Como PCD (Autista), trago atenção aos detalhes, lógica afiada e código limpo. Buscando oportunidades como Estagiário ou Desenvolvedor Júnior! 💻
 
 ## 🛠 Projetos Destaque
-- **[Jogo da Forca](https://raphaeljov.github.io/jogo_da_forca/)**: Jogo da forca com moderno e animado com sons e feedback em tempo real
+- **[Jogo da Forca](https://raphaeljov.github.io/jogo_da_forca/)**: Jogo da forca responsivo com moderno e animado com sons e feedback em tempo real
 - **[pesquisa_em_tempo_real](https://raphaeljov.github.io/pesquisa_em_tempo_real/)**: Sistema de busca em tempo real com resultados dinâmicos. Tech: HTML, CSS, JS
 - **[Calculadora_IMC](https://raphaeljov.github.io/calculadora_imc/)** Sistema para calcular indice de massa corporal conforme OMS: HTML, CSS, JS
 - 🔍.  
